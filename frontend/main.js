@@ -1,5 +1,5 @@
 // week08/frontend/main.js
-
+//update main
 document.addEventListener('DOMContentLoaded', () => {
     // API endpoints for the Product and Order services.
     // These ports (30000 for Product, 30001 for Order) are mapped
